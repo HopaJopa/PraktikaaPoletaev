@@ -1,0 +1,38 @@
+﻿<Window x:Class="MagazTurizmaPoletaev.korzina"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MagazTurizmaPoletaev"
+        mc:Ignorable="d"
+        Title="Корзина" Height="1000" Width="800" Background="#F2D541">
+    <Grid>
+        <ListView Name="lv" Background="#F2D541" Height="800" Margin="0,0,0,230">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <Image Width="200" Height="200" HorizontalAlignment="Center">
+                            <Image.Source>
+                                <Binding Path="image">
+                                    <Binding.TargetNullValue>
+                                        <ImageSource>Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\Image1.png</ImageSource>
+                                    </Binding.TargetNullValue>
+                                </Binding>
+                            </Image.Source>
+                        </Image>
+                        <TextBlock Text="{Binding Path=nazvan}" HorizontalAlignment="Center" FontSize="14"/>
+                        <TextBlock Text="{Binding Path=kratkOp}" HorizontalAlignment="Center" FontSize="14"/>
+                        <TextBlock Text="{Binding Path=cost}" HorizontalAlignment="Center" FontSize="14"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <Button Content="Назад" Background="#F2762E" FontSize="24" FontWeight="Bold" Margin="70,815,427,99" Click="Button_Click"/>
+        <Button Content="Оплатить" Background="#F2762E" FontSize="24" FontWeight="Bold" Margin="70,902,427,10" Click="Button_Click_1"/>
+        <TextBlock Text="Сумма к оплате:" FontSize="22" FontWeight="SemiBold" Margin="413,815,197,105"/>
+        <TextBlock x:Name="tb" FontSize="22" FontWeight="SemiBold" Margin="627,815,10,105"/>
+        <TextBlock Text="Кол-во товаров:" FontSize="22" FontWeight="SemiBold" Margin="413,861,197,59"/>
+        <TextBlock x:Name="tb1" FontSize="22" FontWeight="SemiBold" Margin="627,861,10,59"/>
+    </Grid>
+</Window>

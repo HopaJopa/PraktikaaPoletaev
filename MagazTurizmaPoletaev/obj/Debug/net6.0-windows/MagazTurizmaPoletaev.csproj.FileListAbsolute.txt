@@ -1,0 +1,148 @@
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\MagazTurizmaPoletaev.exe
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\MagazTurizmaPoletaev.deps.json
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\MagazTurizmaPoletaev.runtimeconfig.json
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\MagazTurizmaPoletaev.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\MagazTurizmaPoletaev.pdb
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\App.g.cs
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\MagazTurizmaPoletaev_MarkupCompile.cache
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\MagazTurizmaPoletaev_MarkupCompile.lref
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\MagazTurizmaPoletaev.g.resources
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\MagazTurizmaPoletaev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\MagazTurizmaPoletaev.AssemblyInfoInputs.cache
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\MagazTurizmaPoletaev.AssemblyInfo.cs
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\MagazTurizmaPoletaev.csproj.CoreCompileInputs.cache
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\MagazTurizmaPoletaev.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\refint\MagazTurizmaPoletaev.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\MagazTurizmaPoletaev.pdb
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\MagazTurizmaPoletaev.genruntimeconfig.cache
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\ref\MagazTurizmaPoletaev.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\MagazTurizmaPoletaev.csproj.AssemblyReference.cache
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\MagazTurizmaPoletaev.csproj.CopyComplete
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\Registration.g.cs
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\Registration.baml
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\Katalog.g.cs
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\Katalog.baml
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\PalatkaTolkan.g.cs
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\PalatkaTolkan.baml
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\korzina.g.cs
+C:\Полетаев Даниил 21ис1\Практика Литвинов\MagazTurizmaPoletaev\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\korzina.baml
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\MagazTurizmaPoletaev.csproj.AssemblyReference.cache
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\Katalog.g.cs
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\korzina.g.cs
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\MainWindow.g.cs
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\PalatkaTolkan.g.cs
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\Registration.g.cs
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\App.g.cs
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\MagazTurizmaPoletaev_MarkupCompile.cache
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\MagazTurizmaPoletaev_MarkupCompile.lref
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\MagazTurizmaPoletaev.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\refint\MagazTurizmaPoletaev.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\MagazTurizmaPoletaev.pdb
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\MagazTurizmaPoletaev.exe
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\MagazTurizmaPoletaev.deps.json
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\MagazTurizmaPoletaev.runtimeconfig.json
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\MagazTurizmaPoletaev.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\MagazTurizmaPoletaev.pdb
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Azure.Core.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Azure.Identity.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Humanizer.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\System.Memory.Data.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\System.Text.Json.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\Katalog.baml
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\korzina.baml
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\MainWindow.baml
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\PalatkaTolkan.baml
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\Registration.baml
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\MagazTurizmaPoletaev.g.resources
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\MagazTurizmaPoletaev.GeneratedMSBuildEditorConfig.editorconfig
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\MagazTurizmaPoletaev.AssemblyInfoInputs.cache
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\MagazTurizmaPoletaev.AssemblyInfo.cs
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\MagazTurizmaPoletaev.csproj.CoreCompileInputs.cache
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\MagazTurizmaPoletaev.csproj.CopyComplete
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\MagazTurizmaPoletaev.genruntimeconfig.cache
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\ref\MagazTurizmaPoletaev.dll

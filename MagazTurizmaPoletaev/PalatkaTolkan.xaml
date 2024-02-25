@@ -1,0 +1,22 @@
+﻿<Window x:Class="MagazTurizmaPoletaev.PalatkaTolkan"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MagazTurizmaPoletaev"
+        mc:Ignorable="d"
+        Title="Товар: Палатка-туалет" Height="700" Width="400" Background="#F2D541">
+    <StackPanel>
+        <Image Source="tolchok 1.png" Width="250" Margin="0,15,0,0"/>
+        <TextBlock Text="6.299 ₽" FontSize="22" FontWeight="Bold" Margin="30,15,0,0"/>
+        <TextBlock FontFamily="Arial" Text="Тент Totem Privat (душ/туалет) Кемпинговый тент для установки душа или туалета. Может использоваться во время кемпингового отдыха, на даче и на различных выездных мероприятиях под открытым небом"
+                   Width="370" Height="110" TextWrapping="Wrap" FontWeight="DemiBold" Margin="0,5,0,0" FontSize="16"/>
+        <TextBlock Text="Особенности:" Width="350" TextWrapping="Wrap" FontWeight="DemiBold" Margin="0,0,0,0" FontSize="14"/>
+        <TextBlock Text="- Два вентиляционных окна в куполе" Width="350" TextWrapping="Wrap" FontWeight="DemiBold" Margin="0,5,0,0" FontSize="14"/>
+        <TextBlock Text="- Два сетчатых кармана для туалетных принадлежностей" Width="350" TextWrapping="Wrap" FontWeight="DemiBold" FontSize="14"/>
+        <TextBlock Text="- Съемный пол из терпаулинга" Width="350" TextWrapping="Wrap" FontWeight="DemiBold" FontSize="14"/>
+        <TextBlock Text="- Крючок для подвешивания душа." Width="350" TextWrapping="Wrap" FontWeight="DemiBold" FontSize="14"/>
+
+        <Button FontSize="16" Height="35" FontWeight="Bold" Content="Назад" Width="250" Background="#F2762E" Margin="0,30,0,0" Click="Button_Click"/>
+    </StackPanel>
+</Window>

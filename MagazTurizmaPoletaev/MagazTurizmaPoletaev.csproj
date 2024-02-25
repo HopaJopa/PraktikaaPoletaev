@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Frame 1.png" />
+    <None Remove="Frame 2.png" />
+    <None Remove="lopata 1.png" />
+    <None Remove="meshok 1.png" />
+    <None Remove="meshok.png" />
+    <None Remove="ognivo 1.png" />
+    <None Remove="pilaStruna 1.png" />
+    <None Remove="termos 1.png" />
+    <None Remove="tolchok 1.png" />
+    <None Remove="tolkan.png" />
+    <None Remove="topor 1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.12" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.12" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.12">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Frame 1.png" />
+    <Resource Include="Frame 2.png" />
+    <Resource Include="lopata 1.png" />
+    <Resource Include="meshok 1.png" />
+    <Resource Include="ognivo 1.png" />
+    <Resource Include="pilaStruna 1.png" />
+    <Resource Include="termos 1.png" />
+    <Resource Include="tolchok 1.png" />
+    <Resource Include="topor 1.png" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,34 @@
+﻿<Window x:Class="MagazTurizmaPoletaev.Katalog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MagazTurizmaPoletaev"
+        mc:Ignorable="d"
+        Title="Каталог товаров" Height="1000" Width="800" Background="#F2D541">
+    <Grid>
+        <ListView Name="lv" Background="#F2D541" Width="800" Height="750" HorizontalAlignment="Center" Margin="0,0,0,230">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <Image Width="200" Height="200" HorizontalAlignment="Center">
+                            <Image.Source>
+                                <Binding Path="img">
+                                    <Binding.TargetNullValue>
+                                        <ImageSource>Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\Image1.png</ImageSource>
+                                    </Binding.TargetNullValue>
+                                </Binding>
+                            </Image.Source>
+                        </Image>
+                        <TextBlock Text="{Binding Path=nazv}" HorizontalAlignment="Center" FontSize="14" FontWeight="SemiBold"/>
+                        <TextBlock Text="{Binding Path=kratkOpis}" HorizontalAlignment="Center" FontSize="14"/>
+                        <TextBlock Text="{Binding Path=price}" HorizontalAlignment="Center" FontSize="14" FontWeight="Bold"/>
+                        <Button Background="#F2762E" Content="В корзину" Width="100" Height="35" Click="Button_Click"/>
+
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Button Content="Корзина" Click="Button_Click_1" Background="#F2762E" FontSize="24" FontWeight="Bold" Margin="246,842,246,67"/>
+    </Grid>
+</Window>
