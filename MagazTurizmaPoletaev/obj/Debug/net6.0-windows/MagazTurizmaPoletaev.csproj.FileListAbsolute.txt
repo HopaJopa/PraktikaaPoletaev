@@ -146,3 +146,4 @@ Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\MagazT
 Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\MagazTurizmaPoletaev.csproj.CopyComplete
 Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\MagazTurizmaPoletaev.genruntimeconfig.cache
 Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\ref\MagazTurizmaPoletaev.dll
+Y:\PraktikaaPoletaev-master\MagazTurizmaPoletaev\obj\Debug\net6.0-windows\MagazTurizmaPoletaev.sourcelink.json

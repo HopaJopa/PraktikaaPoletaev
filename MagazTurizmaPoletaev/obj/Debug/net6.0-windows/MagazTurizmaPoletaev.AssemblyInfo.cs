@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MagazTurizmaPoletaev")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59dd9af5dce9b832f170d1d427529f6427af8d5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MagazTurizmaPoletaev")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MagazTurizmaPoletaev")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
